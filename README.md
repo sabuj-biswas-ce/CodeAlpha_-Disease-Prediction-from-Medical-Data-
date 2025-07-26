@@ -1,1 +1,1 @@
-# CodeAlpha_-Disease-Prediction-from-Medical-Data-
+# CodeAlpha_-Disease-Prediction-from-Medical-Data
